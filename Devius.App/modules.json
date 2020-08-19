@@ -1,0 +1,22 @@
+[
+  {
+    "id": "82d1c24f-15c2-4726-95b3-25f169eebe59",
+    "name": "Devius.Modules.TeamWork",
+    "version": "1.0.0"
+  },
+  {
+    "id": "23dd7acc-53f7-4baf-b286-0e38df838050",
+    "name": "Devius.Modules.ProcessManager",
+    "version": "1.0.0"
+  },
+  {
+    "id": "df6eca2c-05d3-41c4-8352-d3b04b05b8a3",
+    "name": "Devius.Modules.TaskManagment",
+    "version": "1.0.0"
+  },
+  {
+    "id": "6479159f-4d93-444a-b990-6c20c752397d",
+    "name": "Devius.Modules.RemoteDesktop",
+    "version": "1.0.0"
+  }
+]

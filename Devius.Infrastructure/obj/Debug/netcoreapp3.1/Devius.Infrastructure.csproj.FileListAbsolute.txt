@@ -1,0 +1,6 @@
+C:\Users\Nethry\Desktop\NS\Projects\Devius\Devius.Infrastructure\bin\Debug\netcoreapp3.1\Devius.Infrastructure.deps.json
+C:\Users\Nethry\Desktop\NS\Projects\Devius\Devius.Infrastructure\bin\Debug\netcoreapp3.1\Devius.Infrastructure.dll
+C:\Users\Nethry\Desktop\NS\Projects\Devius\Devius.Infrastructure\obj\Debug\netcoreapp3.1\Devius.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Nethry\Desktop\NS\Projects\Devius\Devius.Infrastructure\obj\Debug\netcoreapp3.1\Devius.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Nethry\Desktop\NS\Projects\Devius\Devius.Infrastructure\obj\Debug\netcoreapp3.1\Devius.Infrastructure.AssemblyInfo.cs
+C:\Users\Nethry\Desktop\NS\Projects\Devius\Devius.Infrastructure\obj\Debug\netcoreapp3.1\Devius.Infrastructure.csproj.CoreCompileInputs.cache
